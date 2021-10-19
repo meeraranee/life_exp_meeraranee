@@ -11,7 +11,7 @@ library(gapminder)
 data(gapminder_unfiltered)
 ```
 
-Set the data
+Get the data and group it
 ```{r}
 # new comment
 gapminder_unfiltered %>%
